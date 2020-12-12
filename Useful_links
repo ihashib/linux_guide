@@ -1,0 +1,15 @@
+If anyone wants to get familiar with Linux and learn to use it. I use 18.04 as I need to use ROS Melodic which only supports 18.04. Also you can install Ubuntu’s flavours, same thing, just the desktop environment is changed. KUbuntu, Xubuntu, Lubuntu, Ubuntu Mate etc(https://youtu.be/7BXFSraVP7k). 
+Here's some useful links:  
+1. Basic concepts:
+ https://youtu.be/zA3vmx0GaO8 
+2. Where to download: 
+https://releases.ubuntu.com/18.04.5/
+3. Installing Ubuntu 18.04 (dual boot with windows 10): 
+https://youtu.be/u5QyjHIYwTQ
+4. Installing Ubuntu 18.04 on virtual box:
+ https://youtu.be/QbmRXJJKsvs
+6. Things to do After Installing Ubuntu 18.04:
+https://youtu.be/ynA_zv2eRzE
+5. Basic Command Line: 
+https://youtu.be/cBokz0LTizk
+Note that: There may be errors, bugs and other problems that you may encounter, linux is all about your freedom and unlike windows, you have to maintain it. So learn to debug and google. Best of luck!
